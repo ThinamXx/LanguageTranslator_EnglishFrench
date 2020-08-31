@@ -4,12 +4,12 @@
 - Language Translation is a key service needed by the people who are travelling as well as for the people who are settling in a new country. In this Project, I will build the Sequential Model that translates the English sentences to French Sentences. Implementation of Natural Language Processing for converting words or texts into numbers which is then trained using Machine Learning Mode to make the predictions. Neural Machine Translation has been used by Google Translate and it is implemented by billion of users around the world.
 
 **Getting the Data**
-- I have manually downloaded the Data. You can access to the Data used in this Project from [Click Here](https://github.com/ThinamXx/LanguageTranslator_EnglishFrench/tree/master/Dataset)
+- I have manually downloaded the [Data](https://github.com/ThinamXx/LanguageTranslator_EnglishFrench/tree/master/Dataset). You can access to the [Data](https://github.com/ThinamXx/LanguageTranslator_EnglishFrench/tree/master/Dataset) used in this Project from [here](https://github.com/ThinamXx/LanguageTranslator_EnglishFrench/tree/master/Dataset)
 
 **Exploratory Data Analysis**
 - I have performed various Exploratory Data Analysis techniques such as Statistical Exploration, Data Visualization with Plotly and WordCloud and Data Cleaning and Data Preparation process such as Tokenization and Padding and so on.
 
-**English Language or Words**
+### **English Language or Words**
   - **Snapshot of English Language or Words using Plotly**
   
   ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1598843184/A_jjho5n.png)
@@ -18,7 +18,7 @@
   
   ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1598843304/B_cqigbl.png)
   
-**French Language or Words**
+### **French Language or Words**
   - **Snapshot of French Language or Words using Plotly**
   
   ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1598843427/C_xnmlix.png)
