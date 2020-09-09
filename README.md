@@ -1,4 +1,5 @@
 # **English to French Language Translator**
+- [Overview of the Project](https://thinamxx.github.io/LanguageTranslator_EnglishFrench/)
 
 **Objective and Problem Statement**
 - Language Translation is a key service needed by the people who are travelling as well as for the people who are settling in a new country. In this Project, I will build the Sequential Model that translates the English sentences to French Sentences. Implementation of Natural Language Processing for converting words or texts into numbers which is then trained using Machine Learning Model to make the predictions. Neural Machine Translation has been used by Google Translate and it is implemented by billion of users around the world.
